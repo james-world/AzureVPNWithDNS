@@ -1,0 +1,7 @@
+# Terraform
+.terraform
+tf.plan
+
+# DrawIO temp files
+*.bkp
+*.dtmp
